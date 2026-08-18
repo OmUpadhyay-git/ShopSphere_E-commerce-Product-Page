@@ -1,9 +1,4 @@
 
----
-
-# 3. `Rules.md`
-
-```markdown
 # ShopSphere – AI Development Rules
 
 ## 1. General Rule
@@ -18,14 +13,15 @@ Do not introduce major features, libraries, architecture changes, or technologie
 
 Priority order:
 
-1. User instructions
-2. PRD.md
-3. Architecture.md
-4. Rules.md
+1. Direct user instructions
+2. Rules.md
+3. PRD.md
+4. Architecture.md
 5. Design.md
 6. Phases.md
-7. Existing implementation
-8. AI assumptions
+7. Memory.md
+8. Existing code
+9. AI assumptions
 
 When two sources conflict, follow the higher-priority source and report the conflict.
 
@@ -277,3 +273,10 @@ feat: add product search
 fix: persist cart state
 fix: handle API failure
 style: improve mobile navbar
+```
+
+---
+ 
+## 19. Truncation Note
+
+This document was originally committed with unclosed code fences and a truncated ending. The content through Section 18 is complete and verified. Formatting was reconciled on 2026-08-18.
