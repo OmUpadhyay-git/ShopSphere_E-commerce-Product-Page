@@ -1,1 +1,0 @@
-{"root":["./src/app.tsx","./src/main.tsx","./src/context/cartcontext.tsx","./src/hooks/usecart.ts","./src/hooks/usedebounce.ts","./src/hooks/useproducts.ts","./src/layouts/mainlayout/mainlayout.tsx","./src/routes/approutes.tsx","./src/services/api.ts","./src/types/product.ts","./src/utils/calculations.ts","./src/utils/currency.ts","./src/utils/storage.ts"],"version":"5.9.3"}
